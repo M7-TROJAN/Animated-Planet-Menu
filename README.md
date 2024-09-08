@@ -13,14 +13,6 @@ This project showcases an animated planetary-themed navigation menu using HTML a
 - Circular background animations on hover
 - Responsive design that adapts to different screen sizes
 
-## Screenshots
-
-### Desktop View
-![Desktop View](./images/desktop_view.png)
-
-### Mobile View
-![Mobile View](./images/mobile_view.png)
-
 ## Media Queries
 
 The design has been optimized for different screen sizes:
